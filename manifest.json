@@ -1,0 +1,290 @@
+{
+    "metadata": {
+        "name": "renato",
+        "manifest": {
+            "version": "v1"
+        }
+    },
+    "sources": [
+        {
+            "id": "iUfOJcMSoA0",
+            "title": "Camarões - Grupo A - Copa Aleixo",
+            "length": 266,
+            "dateDownloaded": "2015-07-13T20:56:47.182Z",
+            "size": 2653984,
+            "path": "./sources/iUfOJcMSoA0.webm"
+        },
+        {
+            "id": "0ocbDKoLANs",
+            "title": "Espanha - Grupo B - Copa Aleixo",
+            "length": 322,
+            "dateDownloaded": "2015-07-13T21:05:21.231Z",
+            "size": 3409100,
+            "path": "./sources/0ocbDKoLANs.webm"
+        },
+        {
+            "id": "gEAxYFmYO88",
+            "title": "Alemanha - Grupo G - Copa Aleixo",
+            "length": 381,
+            "dateDownloaded": "2015-07-13T21:29:27.391Z",
+            "size": 3956260,
+            "path": "./sources/gEAxYFmYO88.webm"
+        },
+        {
+            "id": "zlnPEmabWSs",
+            "title": "02. Copa Aleixo - Alemanha",
+            "length": 203,
+            "dateDownloaded": "2015-07-13T21:32:49.172Z",
+            "size": 2724945,
+            "path": "./sources/zlnPEmabWSs.webm"
+        },
+        {
+            "id": "P90v4a3VXS0",
+            "title": "Bélgica - Grupo H - Copa Aleixo",
+            "length": 402,
+            "dateDownloaded": "2015-07-13T21:40:25.192Z",
+            "size": 3769997,
+            "path": "./sources/P90v4a3VXS0.webm"
+        }
+    ],
+    "sounds": [
+        {
+            "id": "000007",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000007.mp3",
+                "ogg": "./sounds/000007.ogg"
+            },
+            "startsAt": 148,
+            "length": 5,
+            "text": "Posso dizer isso doutra maneira, com palavras minhas?",
+            "dateAdded": "2015-07-13T21:20:13.737Z",
+            "disabled": false
+        },
+        {
+            "id": "000009",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000009.mp3",
+                "ogg": "./sounds/000009.ogg"
+            },
+            "startsAt": 192,
+            "length": 5,
+            "text": "Pronto pronto, também não é preciso ficar nervoso",
+            "dateAdded": "2015-07-13T21:23:24.047Z",
+            "disabled": false
+        },
+        {
+            "id": "000008",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000008.mp3",
+                "ogg": "./sounds/000008.ogg"
+            },
+            "startsAt": 176,
+            "length": 3,
+            "text": "Desenvolva se faz favor",
+            "dateAdded": "2015-07-13T21:21:45.748Z",
+            "disabled": false
+        },
+        {
+            "id": "000005",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000005.mp3",
+                "ogg": "./sounds/000005.ogg"
+            },
+            "startsAt": 118,
+            "length": 7,
+            "text": "E essas atitudes agressivas para comigo também não ajudam nada",
+            "dateAdded": "2015-07-13T21:15:16.113Z",
+            "disabled": false
+        },
+        {
+            "id": "000003",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000003.mp3",
+                "ogg": "./sounds/000003.ogg"
+            },
+            "startsAt": 67,
+            "length": 3,
+            "text": "Então mas sou eu ou não?",
+            "dateAdded": "2015-07-13T21:10:32.974Z",
+            "disabled": false
+        },
+        {
+            "id": "000004",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000004.mp3",
+                "ogg": "./sounds/000004.ogg"
+            },
+            "startsAt": 78,
+            "length": 5,
+            "text": "Vocês também só me chamem para ser saco de pancada",
+            "dateAdded": "2015-07-13T21:11:34.340Z",
+            "disabled": false
+        },
+        {
+            "id": "000002",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000002.mp3",
+                "ogg": "./sounds/000002.ogg"
+            },
+            "startsAt": 40,
+            "length": 2,
+            "text": "Que é que foi?",
+            "dateAdded": "2015-07-13T21:09:12.975Z",
+            "disabled": false
+        },
+        {
+            "id": "000006",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000006.mp3",
+                "ogg": "./sounds/000006.ogg"
+            },
+            "startsAt": 137,
+            "length": 3,
+            "text": "Ââahmmmm hmm",
+            "dateAdded": "2015-07-13T21:16:53.519Z",
+            "disabled": false
+        },
+        {
+            "id": "000001",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000001.mp3",
+                "ogg": "./sounds/000001.ogg"
+            },
+            "startsAt": 36,
+            "length": 2,
+            "text": "Então o quê?",
+            "dateAdded": "2015-07-13T21:07:50.054Z",
+            "disabled": false
+        },
+        {
+            "id": "000010",
+            "version": 1,
+            "sourceID": "0ocbDKoLANs",
+            "paths": {
+                "mp3": "./sounds/000010.mp3",
+                "ogg": "./sounds/000010.ogg"
+            },
+            "startsAt": 251,
+            "length": 5,
+            "text": "Eu tinha percebido, não era preciso fazeres-me de burro",
+            "dateAdded": "2015-07-13T21:26:13.478Z",
+            "disabled": false
+        },
+        {
+            "id": "000011",
+            "version": 1,
+            "sourceID": "zlnPEmabWSs",
+            "paths": {
+                "mp3": "./sounds/000011.mp3",
+                "ogg": "./sounds/000011.ogg"
+            },
+            "startsAt": 99,
+            "length": 3,
+            "text": "Sejam amigos!",
+            "dateAdded": "2015-07-13T21:34:16.743Z",
+            "disabled": false
+        },
+        {
+            "id": "000012",
+            "version": 1,
+            "sourceID": "zlnPEmabWSs",
+            "paths": {
+                "mp3": "./sounds/000012.mp3",
+                "ogg": "./sounds/000012.ogg"
+            },
+            "startsAt": 124,
+            "length": 2,
+            "text": "Oh, não é bem assim",
+            "dateAdded": "2015-07-13T21:35:43.150Z",
+            "disabled": false
+        },
+        {
+            "id": "000013",
+            "version": 1,
+            "sourceID": "zlnPEmabWSs",
+            "paths": {
+                "mp3": "./sounds/000013.mp3",
+                "ogg": "./sounds/000013.ogg"
+            },
+            "startsAt": 126,
+            "length": 3,
+            "text": "São sempre levados ao colo",
+            "dateAdded": "2015-07-13T21:36:32.827Z",
+            "disabled": false
+        },
+        {
+            "id": "000014",
+            "version": 1,
+            "sourceID": "zlnPEmabWSs",
+            "paths": {
+                "mp3": "./sounds/000014.mp3",
+                "ogg": "./sounds/000014.ogg"
+            },
+            "startsAt": 183,
+            "length": 3,
+            "text": "Qualquer dia vou-te à tromba ó Busto",
+            "dateAdded": "2015-07-13T21:38:36.005Z",
+            "disabled": false
+        },
+        {
+            "id": "000015",
+            "version": 1,
+            "sourceID": "P90v4a3VXS0",
+            "paths": {
+                "mp3": "./sounds/000015.mp3",
+                "ogg": "./sounds/000015.ogg"
+            },
+            "startsAt": 92,
+            "length": 2,
+            "text": "Yaa pois é",
+            "dateAdded": "2015-07-13T21:43:13.995Z",
+            "disabled": false
+        },
+        {
+            "id": "000016",
+            "version": 1,
+            "sourceID": "P90v4a3VXS0",
+            "paths": {
+                "mp3": "./sounds/000016.mp3",
+                "ogg": "./sounds/000016.ogg"
+            },
+            "startsAt": 104,
+            "length": 2,
+            "text": "Tá bem apanhada tá",
+            "dateAdded": "2015-07-13T21:44:01.101Z",
+            "disabled": false
+        },
+        {
+            "id": "000017",
+            "version": 1,
+            "sourceID": "P90v4a3VXS0",
+            "paths": {
+                "mp3": "./sounds/000017.mp3",
+                "ogg": "./sounds/000017.ogg"
+            },
+            "startsAt": 261,
+            "length": 4,
+            "text": "Olha, a cerveja belga é que é bué da boa",
+            "dateAdded": "2015-07-13T21:48:22.294Z",
+            "disabled": false
+        }
+    ]
+}
