@@ -5,14 +5,14 @@ exports.config = {
         url           : 'http://renato.botoes.co',
         external_link : 'http://www.facebook.com/brunoaleixo',
         facebook: {
-            id: '1016048086'
+            id: "1016048086"
         },
         google: {
-            id: 'UA-64953131-1'
+            id: 'UA-65109630-1'
         }
     },
     partials: {
-        footer: '<a href="mailto:andrefs@andrefs.com">andré santos <i class="fa fa-envelope"></i></a> , baseado em <a href="http://www.facebook.com/brunoaleixo">bruno aleixo <i class="fa fa-external-link"></i></a>'
+        footer: '<a href="mailto:andrefs@andrefs.com">andré santos, joão ferreira <i class="fa fa-envelope"></i></a> , baseado em <a href="http://www.facebook.com/brunoaleixo">bruno aleixo <i class="fa fa-external-link"></i></a>'
     },
     manifest : {
         version: 'v1',
